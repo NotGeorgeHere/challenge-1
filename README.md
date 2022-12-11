@@ -12,7 +12,7 @@ Deployment Page:
 
 ## Usage
 
-![alt text](Assets/01-html-css-git-challenge-demo.png)
+![alt text](starter/assets/images/01-html-css-git-challenge-demo.png)
 
 ## License
 
