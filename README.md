@@ -7,12 +7,13 @@ My motivation for this project was to learn more about website accessibility in 
 ## Installation
 
 Github repository: https://github.com/NotGeorgeHere/challenge-1
+Live deployment page: https://notgeorgehere.github.io/challenge-1/#social-media-marketing
 
 Deployment Page:
 
 ## Usage
 
-![alt text](starter/assets/images/01-html-css-git-challenge-demo.png)
+![alt text](assets/images/01-html-css-git-challenge-demo.png)
 
 ## License
 
